@@ -19,7 +19,7 @@ excavating architectures with better generalization. We demonstrate that the fla
 <img src="./repo_figures/motivation.png" width="500px">
 
 ## Updates    
-**_2023-08-14_** We release the official implementation of GeNAS.
+**_2023-08-09_** We release the official implementation of GeNAS.
 
 ## Requirements
 
