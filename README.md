@@ -2,7 +2,7 @@
 
 **GeNAS: Neural Architecture Search with Better Generalization** <br />
 
-[Joonhyun Jeong](https://bestdeveloper691.github.io/)<sup>1,2</sup>, [Joonsang Yu](https://scholar.google.co.kr/citations?user=IC6M7_IAAAAJ&hl=ko)<sup>1,3</sup>, [Geondo Park](https://scholar.google.com/citations?user=Z8SGJ60AAAAJ&hl=ko)<sup>2</sup>, [Dongyoon Han](https://sites.google.com/site/dyhan0920/)<sup>3</sup>, [YoungJoon Yoo](https://yjyoo3312.github.io/)<sup>1</sup><br>
+[Joonhyun Jeong](https://bestdeveloper691.github.io/)<sup>1,2</sup>, [Joonsang Yu](https://scholar.google.co.kr/citations?user=IC6M7_IAAAAJ&hl=ko)<sup>1,3</sup>, [Geondo Park](https://scholar.google.com/citations?user=Z8SGJ60AAAAJ&hl=ko)<sup>2</sup>, [Dongyoon Han](https://scholar.google.com/citations?user=jcP7m1QAAAAJ&hl=en)<sup>3</sup>, [YoungJoon Yoo](https://yjyoo3312.github.io/)<sup>1</sup><br>
 
 <sup>1</sup> <sub>NAVER Cloud, ImageVision</sub><br />
 <sup>2</sup> <sub>KAIST</sub><br />
